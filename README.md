@@ -7,7 +7,7 @@
 
 
 ## 🔬 About This Repository
-This repository contains the companion applications and host tools for the smart glasses, including desktop calibration software, engineering testbenches, and companion mobile application stacks.
+This repository contains the smart glasses specific applications and tools.
 
 ## 📂 Repository Structure
 ```text
